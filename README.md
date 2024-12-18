@@ -45,7 +45,7 @@ Now you can exit the file and restart Neovim to see changes
 
 | Plugin            | Keybinding     |
 |:------------------|---------------:|
-| Nerd Tree         | ** \ **        | 
+| Nerd Tree         | **\\**         | 
 | cycle Suggestions | **Tab**        |
 | Cycle backwards   | **Shift + Tab**|
 | Confirm selection | **Enter**      |

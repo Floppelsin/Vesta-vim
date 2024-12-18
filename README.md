@@ -31,7 +31,6 @@ mkdir .config/nvim
 
 ```
 cd Vesta-vim/
- 
 cp init.lua ~/.config/nvim
 ```
 
@@ -46,7 +45,7 @@ Now you can exit the file and restart Neovim to see changes
 
 | Plugin            | Keybinding     |
 |:------------------|---------------:|
-| Nerd Tree         | **\**          | 
+| Nerd Tree         | ** \ **        | 
 | cycle Suggestions | **Tab**        |
 | Cycle backwards   | **Shift + Tab**|
 | Confirm selection | **Enter**      |
@@ -65,7 +64,7 @@ git pull
 2. Copy the new **init.lua** file
 
 ```
-cd Vesta-vim/
- 
+cd Vesta-vim/ 
 cp init.lua ~/.config/nvim
 ```
+

@@ -10,7 +10,7 @@
 
 1. neovim >=0.9.0
 
-2. Pathced font like **Jetbrains Mono Nerd Font**. Your terminal emulator must be configured to use this font else icons will disappear
+2. Pathced font like **Jetbrains Mono Nerd Font**. Your terminal emulator must be configured to use this font else icons will disappear you can download different fonts at [this repository](https://github.com/ryanoasis/nerd-fonts)
 
 3. Packer if you don't have one you can download it [here](https://github.com/wbthomason/packer.nvim)
 

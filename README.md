@@ -1,11 +1,12 @@
-# Vesta Vim 
+# ✨ *Vesta Vim* ✨
 
 **Vesta vim** is a user friendly Neovim setup made to **improve** visuals and **add extra features** like **Nvim** tree and **autocomplete for Python**
 
-# Preview 
+# 🖥️ Preview
 
+<img width="1404" alt="Снимок экрана 2024-12-18 в 19 26 17" src="https://github.com/user-attachments/assets/ebc8a353-1f25-44e3-8144-2a7176ed157d" />
 
-# Requierments 
+# ⚙️ Requierments 
 
 1. neovim >=0.9.0
 
@@ -13,7 +14,7 @@
 
 3. Packer if you don't have one you can download it [here](https://github.com/wbthomason/packer.nvim)
 
-# Instalation 
+# ⬇️ Instalation 
 
 1. Clone this repository 
 
@@ -41,7 +42,7 @@ cp init.lua ~/.config/nvim
 
 Now you can exit the file and restart Neovim to see changes
 
-# Keybindings 
+# ⌨️ Keybindings 
 
 | Plugin            | Keybinding     |
 |:------------------|---------------:|
@@ -53,7 +54,7 @@ Now you can exit the file and restart Neovim to see changes
 
 You can change keybindings if you want in **init.lua** 
 
-# Updating
+# 🔄 Updating
 
 1. Insert this command in the Vesta Vim folder 
 
